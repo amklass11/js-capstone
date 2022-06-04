@@ -1,4 +1,2 @@
-coverage
-__tests__
 dist/
 server.js
