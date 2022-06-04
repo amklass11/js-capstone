@@ -1,5 +1,6 @@
-# mobile-portfolio
-This  project is aimed at building a beautiful porfolio page.
+#  Js  Capstone
+This is a  microverse project aimed at grasping JAVASCRIPTS wtih html
+ css and js by building the Movie app of the website. 
 
 # Built With
 HTML
@@ -10,9 +11,6 @@ JAVASCRIPT
 
 [MOVIES demo](https://youtu.be/PdEa4KJuPNk)
 
-
-
-
 # live Demo
  To see a live demo kindly visit [MOVIES](https://amklass11.github.io/Mobile-portfolio/)
 
@@ -20,11 +18,40 @@ JAVASCRIPT
 This is a  microverse project aimed at grasping JAVASCRIPTS wtih html
  css and js by building the Movie app of the website. 
 
+ 
+## Getting Started
+To get a local copy up and running, follow the steps in Setup below.
+
+### Prerequisites
+Basic knowledge of HTML, CSS. javascript
+
+### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+
+```bash
+git clone https://github.com/amklass11/Capstone-Movies-Api.git
+```
+
+- Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
+
+- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+
+### Install
+
+The following tools help make easier to work with sample code.
+
+- [git](https://git-scm.com/downloads): A tool for managing source code
+- [Visual Studio Code](https://code.visualstudio.com/): A source code editor
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): A simple web server utility for Visual Studio Code
+
+
 # Authors
 Amk lass
 
 GitHub:[@amklass11](https://github.com/amklass11)
 LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
+
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
