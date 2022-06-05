@@ -9,7 +9,7 @@ JAVASCRIPT
 
 # Video presentation
 
-[MOVIES demo](https://youtu.be/PdEa4KJuPNk)
+[MOVIES demo](https://youtu.be/gAsnKLFtdyU)
 
 # live Demo
  To see a live demo kindly visit [MOVIES](https://amklass11.github.io/js-capstone/)
