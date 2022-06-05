@@ -12,7 +12,7 @@ JAVASCRIPT
 [MOVIES demo](https://youtu.be/PdEa4KJuPNk)
 
 # live Demo
- To see a live demo kindly visit [MOVIES](https://amklass11.github.io/Mobile-portfolio/)
+ To see a live demo kindly visit [MOVIES](https://amklass11.github.io/js-capstone/)
 
 # Getting Started
 This is a  microverse project aimed at grasping JAVASCRIPTS wtih html
@@ -30,7 +30,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 
 ```bash
-git clone https://github.com/amklass11/Capstone-Movies-Api.git
+git clone https://github.com/amklass11/js-capstone.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
